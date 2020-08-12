@@ -14,7 +14,7 @@ import com.google.android.play.core.install.model.UpdateAvailability
 
 class MainActivity : AppCompatActivity() {
 
-    private val SPLASH_TIME_OUT:Long=3000
+    private val SPLASH_TIME_OUT:Long=1500
     val UPDATE_REQUEST_CODE = 1
     lateinit var  appUpdateManager : AppUpdateManager
     val TAG = MainActivity::class.java.simpleName
