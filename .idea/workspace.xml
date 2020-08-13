@@ -9,13 +9,20 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b1e119-5325-491c-bb42-3ed4c10f9d3a" name="Default Changelist" comment="" />
+    <list default="true" id="e3b1e119-5325-491c-bb42-3ed4c10f9d3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="fa6f6c3c0904" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_XL_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -42,6 +49,9 @@
     <option name="KEY_ALIAS" value="hurgi" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fzNvNxlqXP5ehNdoFClXM0zddf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,6 +63,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-01-22T14:48:29.773Z" />
     <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
     <property name="ExportApk.BuildVariants" value="release" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
@@ -63,6 +74,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anil\Desktop\Github\Hurgi\app\src\main\res\drawable" />
       <recent name="C:\Users\Anil\Desktop\Hurgi\Hurgi-master\Hurgi-master\app\src\main\res\drawable" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
     </key>
@@ -149,25 +161,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="63" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597221906043" />
-    <state width="1308" height="266" key="GridCell.Tab.0.bottom" timestamp="1597221211972">
+    <state width="1308" height="203" key="GridCell.Tab.0.bottom" timestamp="1597296768759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597221211972" />
-    <state width="1308" height="266" key="GridCell.Tab.0.center" timestamp="1597221211972">
+    <state width="1308" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597296768759" />
+    <state width="1308" height="203" key="GridCell.Tab.0.center" timestamp="1597296768759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="266" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597221211972" />
-    <state width="1308" height="266" key="GridCell.Tab.0.left" timestamp="1597221211972">
+    <state width="1308" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597296768759" />
+    <state width="1308" height="203" key="GridCell.Tab.0.left" timestamp="1597296768758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="266" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597221211972" />
-    <state width="1308" height="266" key="GridCell.Tab.0.right" timestamp="1597221211972">
+    <state width="1308" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597296768758" />
+    <state width="1308" height="203" key="GridCell.Tab.0.right" timestamp="1597296768759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="266" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597221211972" />
-    <state x="457" y="129" key="chooseDestDirectoryDialog" timestamp="1597217387142">
+    <state width="1308" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597296768759" />
+    <state x="457" y="129" key="chooseDestDirectoryDialog" timestamp="1597296599609">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="457" y="129" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597217387142" />
+    <state x="457" y="129" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597296599609" />
   </component>
 </project>
